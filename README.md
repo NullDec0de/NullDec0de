@@ -1,6 +1,6 @@
 <h1 align="center">How did you get here?</h1><hr>
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white): NullRouted#2400<br>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): @nullr0uted<br>
+Discord: NullRouted#2400<br>
+Telegram: @nullr0uted<br>
 <hr>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Languages)<br>
