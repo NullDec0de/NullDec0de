@@ -1,5 +1,5 @@
 Discord: nullr0uted<br>
-Telegram: @nulldecode<br>
+Telegram: @nullr0uted<br>
 <hr>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Languages)<br>
