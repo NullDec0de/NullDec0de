@@ -10,10 +10,6 @@
 
 ---
 
-## 👋 About me
-
-- 🌍 Fullstack web developer based in **Kazan, Russia**
-- 💻 I build **backend systems, API integrations, bots and messengers**
 - 🌐 You can find my work at [webzee.ru](https://webzee.ru)
 - 💬 Reach me on Telegram [@nullr0uted](https://t.me/nullr0uted) or Discord `nullr0uted`
 
