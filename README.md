@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a73e8&height=200&section=header&text=NullDec0de&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descSize=20&descAlignY=58" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Backend+%26+API+integrations;Telegram+bots+%26+messengers)](https://github.com/NullDec0de)
-
 <a href="https://webzee.ru"><img src="https://img.shields.io/badge/Website-webzee.ru-36BCF7?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 <a href="https://t.me/nullr0uted"><img src="https://img.shields.io/badge/Telegram-@nullr0uted-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Discord-nullr0uted-5865F2?style=flat-square&logo=discord&logoColor=white" />
